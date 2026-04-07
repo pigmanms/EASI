@@ -1,2 +1,2 @@
-# GDUploader
-Package your file and send it to your Google Drive
+# EncapsulateAndSendIt (EASI)
+Package the folder and send it to your Google Drive
